@@ -1,2 +1,8 @@
+# robots.txt generado por toolseo.net
 User-agent: *
-Disallow: /cgi-bin
+Disallow: 
+Disallow: /cgi-bin/
+Disallow: /clientes/
+Disallow: /confirmacion.html
+Disallow: /avisolegal.html
+Sitemap: https://dysiscom.com/
