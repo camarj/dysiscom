@@ -1,17 +1,32 @@
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-	<url>
-		<loc>http://dysiscom.com/index.html</loc>
-	</url>
-	<url>
-		<loc>http://dysiscom.com/telefoniaip.html</loc>
-	</url>
-	<url>
-		<loc>http://dysiscom.com/asesoriait.html</loc>
-	</url>
-	<url>
-		<loc>http://dysiscom.com/avisolegal.html</loc>
-	</url>
-	<url>
-		<loc>http://dysiscom.com/confirmacion.html</loc>
-	</url>
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://dysiscom.com/</loc>
+  <lastmod>2019-07-17T01:26:49+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://dysiscom.com/index.html</loc>
+  <lastmod>2019-07-17T01:26:49+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://dysiscom.com/asesoriait.html</loc>
+  <lastmod>2019-07-17T01:12:30+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://dysiscom.com/telefoniaip.html</loc>
+  <lastmod>2019-07-17T01:12:30+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+
+
 </urlset>
