@@ -288,11 +288,15 @@
             <div class="media-container-column col-lg-8" data-form-type="formoid">
                 <!---Formbuilder Form--->
                 <form action="enviar.php" method="POST" class="mbr-form form-with-styler">
-                    <div class="row row-sm-offset">
+                    <!-- <div class="row row-sm-offset">
                         <div hidden="hidden" data-form-alert="" class="alert alert-success col-12">Gracias por escribirnos!!</div>
                         <div hidden="hidden" data-form-alert-danger="" class="alert alert-danger col-12">
                         </div>
-                    </div>
+                    </div> -->
+
+                    <div id="alerta" class="alert hide" role="alert">
+                        <strong class="respuesta"></strong> <span class="mensaje-alerta"></span>
+                    </div
                     <div class="dragArea row row-sm-offset">
                         <div class="col-md-4  form-group" data-for="name">
                             <label for="name-form1-b" class="form-control-label mbr-fonts-style display-7">Nombre</label>
