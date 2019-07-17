@@ -25,7 +25,7 @@ isset($recaptcha) && !empty($recaptcha)) {
     if($array['success']){
 
 
-    $destinoMail = "info@diftinto.com";
+    $destinoMail = "info@dysiscom.com";
     $name = validar_campo($_POST["name"]);
     $email = validar_campo($_POST["email"]);
     if(isset($_POST["telefono"])){
